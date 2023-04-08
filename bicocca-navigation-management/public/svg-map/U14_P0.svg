@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 575.56 87.83">
+   <defs>
+      <style>.cls-1{fill:#fff;stroke:#010101;}.cls-1,.cls-2,.cls-3{stroke-miterlimit:10;}.cls-2{fill:none;stroke:#1d1d1b;}.cls-3{fill:#fafafa;stroke:#fedf6e;}</style>
+   </defs>
+   <g id="Livello_2" data-name="Livello 2">
+      <g id="stanze">
+         <polygon id="t001" class="cls-1" points="107.7 46.87 107.7 80.22 100.81 80.22 100.81 80.11 0.5 80.11 0.5 12.96 96.34 12.96 96.34 37.15 101.51 37.15 101.51 46.87 107.7 46.87"/>
+         <polygon id="t013a" class="cls-1" points="326.39 39.05 326.39 59.14 299.46 59.14 299.46 46.98 140.27 46.98 140.27 53.05 127.51 53.05 127.51 61.35 117.85 61.35 117.85 53.05 107.84 53.05 107.84 46.98 101.51 46.98 101.51 39.08 220.07 39.05 220.07 33.53 230.78 33.53 230.78 39.04 284.64 39.03 311.58 39.03 311.58 39.05 326.39 39.05"/>
+         <rect id="t039"  class="cls-1" x="117.75" y="61.34" width="9.76" height="12.96"/>
+         <rect id="t037" class="cls-1" x="140.41" y="46.98" width="24.02" height="33.24"/>
+         <rect id="t036" class="cls-1" x="164.43" y="46.98" width="27.21" height="33.24"/>
+         <rect id="t035" class="cls-1" x="191.63" y="46.98" width="24.3" height="33.24"/>
+         <rect id="t034" class="cls-1" x="215.93" y="46.98" width="14.85" height="33.35"/>
+         <rect id="t033" class="cls-1" x="230.78" y="46.98" width="38.97" height="33.35"/>
+         <rect id="t032" class="cls-1" x="269.75" y="46.98" width="29.63" height="33.35"/>
+         <rect id="t030" class="cls-1" x="299.39" y="59.14" width="27" height="21.08"/>
+         <rect id="t027" class="cls-1" x="350.67" y="53.05" width="13.8" height="27.22"/>
+         <rect id="t026" class="cls-1" x="364.47" y="53.05" width="11.18" height="27.17"/>
+         <polygon id="t002" class="cls-1" points="109.85 12.96 109.85 39.05 101.64 39.05 101.64 37.23 96.8 37.23 96.8 12.96 109.85 12.96"/>
+         <rect id="tscale01" class="cls-1" x="110.45" y="12.96" width="26.01" height="26.01"/>
+         <rect id="t004" class="cls-1" x="136.46" y="12.96" width="24.59" height="25.99"/>
+         <rect id="t005"  class="cls-1" x="161.06" y="12.96" width="27.17" height="26.12"/>
+         <rect id="t006" class="cls-1" x="188.23" y="12.96" width="18.29" height="26.12"/>
+         <rect id="t007" class="cls-1" x="206.12" y="12.96" width="13.95" height="26.09"/>
+         <rect id="t041" class="cls-1" x="220.06" y="12.96" width="11.04" height="20.52"/>
+         <rect  id="t008"  class="cls-1" x="231.1" y="12.96" width="16.5" height="26.12"/>
+         <rect id="t009" class="cls-1" x="247.6" y="12.96" width="24.94" height="26.09"/>
+         <rect id="t010" class="cls-1" x="272.54" y="12.96" width="13.73" height="26.07"/>
+         <rect id="t011" class="cls-1" x="286.27" y="12.96" width="15.38" height="26.09"/>
+         <rect id="t012" class="cls-1" x="301.65" y="12.96" width="24.74" height="26.09"/>
+         <rect id="t014" class="cls-1" x="376.81" y="12.96" width="53.13" height="26.57"/>
+         <rect id="t013" class="cls-1" x="350.67" y="12.96" width="26.23" height="26.23"/>
+         <rect id="t015" class="cls-1" x="461.57" y="12.96" width="11.55" height="17.67"/>
+         <rect id="t024" class="cls-1" x="390.9" y="48.02" width="68.43" height="32.2"/>
+         <rect id="t023" class="cls-1" x="459.33" y="48.02" width="65.76" height="32.25"/>
+         <polygon  id="t022" class="cls-1" points="566.95 45.09 566.95 80.27 540.29 80.27 540.29 77.18 539.57 77.18 539.57 80.27 525.09 80.27 525.09 57.39 539.57 57.39 539.57 73.1 540.29 73.1 540.29 57.39 539.57 57.39 539.57 45.09 566.95 45.09"/>
+         <rect id="tscala02" class="cls-1" x="539.56" y="12.96" width="27.38" height="31.96"/>
+         <rect id="t016" class="cls-1" x="498.94" y="12.96" width="17.59" height="26.57"/>
+         <rect id="t018" class="cls-1" x="516.73" y="12.96" width="22.67" height="14.6"/>
+         <rect id="t017" class="cls-1" x="516.73" y="27.56" width="11.4" height="11.97"/>
+         <polygon id="t020" class="cls-1" points="540.29 45.09 540.29 57.39 525.09 57.39 525.09 48.02 390.98 48.02 390.98 80.22 375.73 80.22 375.73 39.03 390.9 39.03 390.9 38.89 429.94 38.89 429.94 12.96 461.57 12.96 461.57 30.63 473.12 30.63 473.12 12.96 498.94 12.96 498.94 38.89 528.13 38.89 528.13 27.56 539.94 27.56 539.94 40.92 539.9 40.92 539.9 45.09 540.29 45.09"/>
+         <rect id="tscala03" class="cls-1" x="81.69" y="0.5" width="257.7" height="12.46"/>
+         <rect id="tscala04" class="cls-1" x="432.5" y="0.5" width="134.45" height="12.46"/>
+         <rect id="tscala05" class="cls-1" x="26.27" y="80.33" width="16.57" height="6.12"/>
+         <rect id="tscala06" class="cls-1" x="26.27" y="6.73" width="16.57" height="6.23"/>
+         <rect id="tscala07" class="cls-1" x="566.95" y="45.18" width="8.11" height="27.92"/>
+         <rect id="tscala08" class="cls-1" x="326.39" y="12.96" width="24.28" height="26.23"/>
+         <polygon id="t029" class="cls-1" points="375.73 39.07 375.73 53.05 350.68 53.05 350.68 80.32 326.35 80.32 326.35 39.07 375.73 39.07"/>
+         <rect id="tscala09" class="cls-1" x="326.35" y="80.32" width="24.33" height="7.01"/>
+         <polygon id="t040" class="cls-1" points="122.1 74.35 122.1 80.22 107.99 80.22 107.99 67.95 107.84 67.95 107.84 53.05 117.46 53.05 117.46 74.35 122.1 74.35"/>
+         <polygon id="t038" class="cls-1" points="140.26 53.05 140.26 80.22 122.68 80.22 122.68 74.46 127.51 74.46 127.51 53.05 140.26 53.05"/>
+      </g>
+      <g id="porte">
+         <line class="cls-2" x1="107.84" y1="67.61" x2="117.75" y2="67.54"/>
+         <line class="cls-2" x1="127.72" y1="67.48" x2="140.56" y2="67.4"/>
+         <path class="cls-3" d="M101,46c.38,0,5,.18,5,0,0-1.68-2.37-5.47-5-5.47"/>
+         <path class="cls-3" d="M127,54.09a29.57,29.57,0,0,1,3.41,0c0,1.08-1.62,3.5-3.41,3.5"/>
+         <path class="cls-3" d="M118.28,54.13a32.89,32.89,0,0,0-3.31,0,3.87,3.87,0,0,0,3.31,3"/>
+         <path class="cls-3" d="M118.84,61.87a34.89,34.89,0,0,1,0-3.56,4.17,4.17,0,0,1,3.25,3.56"/>
+         <path class="cls-3" d="M133.12,66.85a34.7,34.7,0,0,1,0,3.55,4.2,4.2,0,0,1-3.34-3.55"/>
+         <path class="cls-3" d="M112.56,67.05a34.89,34.89,0,0,0,0,3.56c1,0,3.35-1.69,3.35-3.56"/>
+         <path class="cls-3" d="M41.68,79.6a31.7,31.7,0,0,1,0,3.79c-1.27,0-4.14-1.8-4.14-3.79"/>
+         <path class="cls-3" d="M41.68,13.37a35.46,35.46,0,0,0,0-4.51c-1.66,0-5.41,2.14-5.41,4.51"/>
+         <path class="cls-3" d="M97.28,14.42a35.62,35.62,0,0,0-4.52,0c0,1.66,2.14,5.41,4.52,5.41"/>
+         <path class="cls-3" d="M111.35,39.55c0-.37-.15-4.87,0-4.87,1.42,0,4.63,2.31,4.63,4.87"/>
+         <path class="cls-3" d="M117.85,13.51c0-.38.19-5,0-5-1.79,0-5.82,2.35-5.82,5"/>
+         <path class="cls-3" d="M146.09,39.55c0-.37-.15-4.87,0-4.88,1.43,0,4.64,2.32,4.64,4.88"/>
+         <path class="cls-3" d="M155.64,46.38a46,46,0,0,1,0,4.87c-1.42,0-4.63-2.31-4.63-4.87"/>
+         <path class="cls-3" d="M175.26,39.6c0-.38.19-5,0-5-1.79-.05-5.82,2.35-5.82,5"/>
+         <path class="cls-3" d="M204.31,39.6c0-.38.19-5,0-5-1.78-.05-5.81,2.35-5.81,5"/>
+         <path class="cls-3" d="M228.85,12.49c0-.39.2-5,0-5-1.79,0-5.82,2.36-5.82,5"/>
+         <path class="cls-3" d="M209.87,39.55a46.38,46.38,0,0,1,0-4.88c1.42,0,4.63,2.32,4.63,4.88"/>
+         <path class="cls-3" d="M228.46,34.09c0-.38.19-5,0-5-1.78-.05-5.81,2.36-5.81,5"/>
+         <path class="cls-3" d="M241.86,39.66c0-.38.19-5,0-5-1.79,0-5.82,2.36-5.82,5"/>
+         <path class="cls-3" d="M256.13,39.62c0-.38-.15-4.87,0-4.88,1.43-.05,4.64,2.31,4.64,4.88"/>
+         <path class="cls-3" d="M284.22,39.66c0-.38.19-5,0-5-1.78,0-5.81,2.36-5.81,5"/>
+         <path class="cls-3" d="M299.8,39.66c0-.38.19-5,0-5-1.79,0-5.82,2.36-5.82,5"/>
+         <path class="cls-3" d="M319.33,39.66c0-.38.19-5,0-5-1.78,0-5.81,2.36-5.81,5"/>
+         <path class="cls-3" d="M348.31,12.39c0-.39.19-5,0-5-1.78,0-5.81,2.36-5.81,5"/>
+         <path class="cls-3" d="M325.82,40a46.18,46.18,0,0,1,4.87,0c.05,1.42-2.31,4.63-4.87,4.63"/>
+         <path class="cls-3" d="M325.82,49c.37,0,4.87-.15,4.87,0,.05,1.42-2.31,4.63-4.87,4.63"/>
+         <path class="cls-3" d="M325.82,57.18a18.21,18.21,0,0,0,2.22,0c0-.8-1.05-2.6-2.22-2.6"/>
+         <path class="cls-3" d="M351.83,39.53a46.37,46.37,0,0,1,0-4.88c1.42,0,4.63,2.31,4.63,4.88"/>
+         <path class="cls-3" d="M364,60.92a46.18,46.18,0,0,0,4.87,0c.05-1.42-2.31-4.63-4.87-4.63"/>
+         <path class="cls-3" d="M188.84,46.38a46.18,46.18,0,0,1,0,4.87c-1.42,0-4.63-2.31-4.63-4.87"/>
+         <path class="cls-3" d="M214.45,46.38a46,46,0,0,1,0,4.87c-1.42,0-4.63-2.31-4.63-4.87"/>
+         <path class="cls-3" d="M228.87,46.38c0,.37.15,4.87,0,4.87-1.43,0-4.64-2.31-4.64-4.87"/>
+         <path class="cls-3" d="M237.6,46.38a46,46,0,0,1,0,4.87c-1.42,0-4.63-2.31-4.63-4.87"/>
+         <path class="cls-3" d="M276.62,46.41c0,.37.15,4.87,0,4.87-1.43,0-4.64-2.31-4.64-4.87"/>
+         <path class="cls-3" d="M300.85,58.61a46,46,0,0,0,0,4.87c1.42.05,4.63-2.31,4.63-4.87"/>
+         <path class="cls-3" d="M376.26,52.05a40.49,40.49,0,0,1-4.14,0c0-1.23,2-4,4.14-4"/>
+         <path class="cls-3" d="M376.26,45a14.7,14.7,0,0,0-1.88,0c0,.7.89,2.26,1.88,2.26"/>
+         <path class="cls-3" d="M376.21,40c-.28,0-3.67-.11-3.67,0,0,1.08,1.74,3.5,3.67,3.5"/>
+         <path class="cls-3" d="M413,38.23a14.7,14.7,0,0,0,0,1.89c.69,0,2.25-.89,2.25-1.89,0,2.19,2.79,4.19,4,4.15a38,38,0,0,0,0-4.15"/>
+         <path class="cls-3" d="M394.16,48.66a40.48,40.48,0,0,1,0-4.14c1.23-.05,4,2,4,4.14"/>
+         <path class="cls-3" d="M401.2,48.66a14.86,14.86,0,0,0,0-1.89c-.7,0-2.26.9-2.26,1.89"/>
+         <path class="cls-3" d="M468.29,48.66a14.73,14.73,0,0,0,0-1.89c-.69,0-2.25.9-2.25,1.89,0-2.18-2.79-4.19-4-4.14a37.79,37.79,0,0,0,0,4.14"/>
+         <path class="cls-3" d="M450,48.66a14.86,14.86,0,0,1,0-1.89c.7,0,2.26.9,2.26,1.89,0-2.18,2.78-4.19,4-4.14a40.48,40.48,0,0,1,0,4.14"/>
+         <path class="cls-3" d="M471.33,31.18a46.17,46.17,0,0,0,0-4.88c-1.42-.05-4.63,2.31-4.63,4.88"/>
+         <path class="cls-3" d="M500.86,39.53a46.37,46.37,0,0,1,0-4.88c1.42,0,4.63,2.31,4.63,4.88"/>
+         <path class="cls-3" d="M529.7,26.91a46.15,46.15,0,0,0,0,4.88c1.42.05,4.63-2.31,4.63-4.88"/>
+         <path class="cls-3" d="M527.49,33.3a46,46,0,0,1,4.87,0c0,1.42-2.31,4.63-4.87,4.63"/>
+         <path class="cls-3" d="M538.17,56.71a46.18,46.18,0,0,1,0,4.87c-1.42.05-4.63-2.31-4.63-4.87"/>
+         <path class="cls-3" d="M539.39,43.51c.38,0,4.87.15,4.88,0,.05-1.42-2.31-4.64-4.88-4.64"/>
+         <path class="cls-3" d="M546.56,14a46.18,46.18,0,0,0,0-4.87c-1.42-.05-4.63,2.31-4.63,4.87"/>
+      </g>
+      <g id="nomi-stanze">
+
+         <text x='10' y='70' class="text-map" id="tscala08-text">nome</text>
+         <text x='10' y='70' class="text-map" id="tscala09-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t029-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t040-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t038-text">nome</text>
+         <text x='10' y='70' class="text-map" id="tscala07-text">nome</text>
+         <text x='10' y='70' class="text-map" id="tscala06-text">nome</text>
+         <text x='10' y='70' class="text-map" id="tscala05-text">nome</text>
+         <text x='10' y='70' class="text-map" id="tscala04-text">nome</text>
+         <text x='10' y='70' class="text-map" id="tscala03-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t020-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t017-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t018-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t016-text">nome</text>
+         <text x='10' y='70' class="text-map" id="tscala02-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t022-text">nome</text>
+
+
+         <text x='10' y='10' class="text-map" id="t001-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t013a-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t039-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t037-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t036-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t035-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t034-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t033-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t032-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t030-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t027-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t026-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t002-text">nome</text>
+         <text x='10' y='10' class="text-map" id="tscale01-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t004-text">nome</text>
+         <text x='10' y='10' class="text-map" id="t005-text">nome</text>
+         <text x='10' y='20' class="text-map" id="t006-text">nome</text>
+         <text x='10' y='30' class="text-map" id="t007-text">nome</text>
+         <text x='10' y='40' class="text-map" id="t041-text">nome</text>
+         <text x='10' y='50' class="text-map" id="t008-text">nome</text>
+         <text x='10' y='60' class="text-map" id="t009-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t010-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t011-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t012-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t013-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t014-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t015-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t024-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t023-text">nome</text>
+         <text x='10' y='70' class="text-map" id="t022-text">nome</text>
+      <g>
+   </g>
+</svg>

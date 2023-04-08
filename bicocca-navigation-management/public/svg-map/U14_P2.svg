@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 578.35 64.22">
+   <defs>
+      <style>.cls-1,.cls-4{fill:#fff;}.cls-1,.cls-2{stroke:#010101;}.cls-1,.cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}.cls-2{fill:none;}.cls-3{fill:#fafafa;stroke:#fedf6e;}.cls-4{stroke:#fafafa;}</style>
+   </defs>
+   <g id="Livello_2" data-name="Livello 2">
+      <g id="stanze">
+         <polygon id="2065" class="cls-1" points="316.92 23.94 316.92 33.22 316.69 33.22 316.69 39.64 301.58 39.64 301.58 33.22 150.24 33.22 150.24 36.98 150.22 36.98 150.22 47.13 122.8 47.13 122.8 33.22 21.19 33.22 21.19 23.94 316.92 23.94"/>
+         <polygon id="2031" class="cls-1" points="548.21 33.22 548.21 44.68 517.1 44.68 517.1 33.22 376.88 33.22 376.88 39.64 355.7 39.64 355.7 23.94 520.26 23.94 520.26 12.91 531.04 12.91 531.04 33.22 548.21 33.22"/>
+         <rect id="2034" class="cls-1" x="531.04" y="44.82" width="27.07" height="18.9"/>
+         <rect id="2034a" class="cls-1" x="517.1" y="44.68" width="13.81" height="19.04"/>
+         <rect id="2035" class="cls-1" x="497.25" y="33.08" width="19.85" height="30.65"/>
+         <rect id="2036" class="cls-1" x="476.94" y="33.08" width="20.31" height="30.65"/>
+         <rect id="2038" class="cls-1" x="443.37" y="33.08" width="15.2" height="30.65"/>
+         <rect id="2039" class="cls-1" x="426.27" y="33.08" width="17.1" height="30.65"/>
+         <rect id="2042" class="cls-1" x="376.89" y="33.08" width="15.68" height="30.65"/>
+         <rect id="2046" class="cls-1" x="301.58" y="39.65" width="15.35" height="24.08"/>
+         <rect id="2047" class="cls-1" x="288.3" y="33.13" width="13.27" height="30.59"/>
+         <rect id="2049" class="cls-1" x="254.43" y="33.13" width="18.96" height="30.59"/>
+         <rect id="2051" class="cls-1" x="220.88" y="33.13" width="16.54" height="30.59"/>
+         <rect id="2052" class="cls-1" x="201.1" y="33.13" width="19.76" height="30.59"/>
+         <rect id="2054" class="cls-1" x="175.01" y="33.13" width="12.33" height="30.59"/>
+         <rect id="2055" class="cls-1" x="150.21" y="33.13" width="24.8" height="30.59"/>
+         <rect id="2064" class="cls-1" x="21.19" y="33.2" width="14.13" height="30.5"/>
+         <rect id="2062" class="cls-1" x="47.98" y="33.32" width="22.54" height="30.38"/>
+         <rect id="2061" class="cls-1" x="70.21" y="33.22" width="15.02" height="30.48"/>
+         <rect  id="2059" class="cls-1" x="96.5" y="33.22" width="26.3" height="30.5"/>
+         <rect id="2057" class="cls-1" x="131.6" y="47.22" width="9.12" height="9.4"/>
+         <polygon id="2scala01" class="cls-1" points="21.19 25.68 21.19 31.48 15.89 31.48 15.89 60.8 0.5 60.8 0.5 17.46 15.89 17.46 15.89 25.68 21.19 25.68"/>
+         <rect id="2001" class="cls-1" x="21.19" y="0.51" width="14.13" height="23.5"/>
+         <rect id="2003" class="cls-1" x="48.41" y="0.51" width="21.69" height="23.5"/>
+         <rect id="2004" class="cls-1" x="70.1" y="0.51" width="15.14" height="23.5"/>
+         <rect id="2005" class="cls-1" x="85.23" y="0.51" width="10.4" height="23.5"/>
+         <rect id="2007" class="cls-1" x="111.39" y="0.51" width="12.68" height="23.5"/>
+         <rect  id="2scala02" class="cls-1" x="124.18" y="0.51" width="26.03" height="23.43"/>
+         <rect id="2009" class="cls-1" x="150.21" y="0.51" width="24.8" height="23.43"/>
+         <rect id="2010" class="cls-1" x="175.24" y="0.51" width="12.64" height="23.43"/>
+         <rect id="2011" class="cls-1" x="187.88" y="0.51" width="14.81" height="23.43"/>
+         <rect id="2012" class="cls-1" x="202.91" y="0.51" width="21.2" height="23.43"/>
+         <rect id="2012" class="cls-1" x="224.12" y="0.51" width="15.88" height="23.43"/>
+         <rect id="2014" class="cls-1" x="240" y="0.51" width="14.26" height="23.43"/>
+         <rect id="2015"  class="cls-1" x="254.26" y="0.51" width="21.18" height="23.43"/>
+         <rect id="2016" class="cls-1" x="275.44" y="0.51" width="14.19" height="23.43"/>
+         <rect id="2017" class="cls-1" x="289.63" y="0.51" width="15.62" height="23.43"/>
+         <rect id="2018" class="cls-1" x="305.25" y="0.51" width="22.38" height="23.43"/>
+         <polygon id="2Corridoio-scale" class="cls-1" points="355.7 24 355.7 33.17 316.69 33.17 316.69 24 327.63 24 327.63 0.51 353.23 0.51 353.23 24 355.7 24"/>
+         <rect id="2020" class="cls-1" x="353.23" y="0.51" width="22.74" height="23.43"/>
+         <rect id="2021" class="cls-1" x="375.97" y="0.51" width="15.49" height="23.3"/>
+         <rect id="2022" class="cls-1" x="391.46" y="0.5" width="15.49" height="23.32"/>
+         <rect id="2023" class="cls-1" x="406.96" y="0.5" width="17.17" height="23.32"/>
+         <rect id="2025" class="cls-1" x="442.62" y="0.51" width="14.44" height="23.43"/>
+         <rect id="2026" class="cls-1" x="457.06" y="0.5" width="22.46" height="23.45"/>
+         <rect id="2027" class="cls-1" x="479.52" y="0.5" width="12.68" height="23.32"/>
+         <rect id="2028" class="cls-1" x="492.47" y="0.5" width="16.3" height="23.32"/>
+         <rect id="2030" class="cls-1" x="508.77" y="0.5" width="22.27" height="12.41" />
+         <rect id="2029" class="cls-1" x="508.77" y="12.91" width="11.22" height="10.91"/>
+   
+         <polygon id="2scala03" class="cls-1" points="577.85 6.86 577.85 50.62 562.46 50.62 562.46 44.82 548.21 44.82 548.21 33.22 562.46 33.22 562.46 6.86 577.85 6.86"/>
+         <rect id="2scala04" class="cls-1" x="531.04" y="0.5" width="25.39" height="32.72"/>
+         <rect id="2002" class="cls-1" x="35.32" y="0.51" width="13.09" height="23.5"/>
+         <rect id="2006" class="cls-1" x="95.63" y="0.51" width="15.71" height="23.5"/>
+         <rect id="2063" class="cls-1" x="35.32" y="33.2" width="13.09" height="30.5"/>
+         <rect id="2060" class="cls-1" x="85.42" y="33.2" width="10.88" height="30.5"/>
+         <rect id="2053" class="cls-1" x="187.34" y="33.13" width="13.76" height="30.59"/>
+         <rect id="2050" class="cls-1" x="237.42" y="33.13" width="17.01" height="30.59"/>
+         <rect id="2048" class="cls-1" x="272.4" y="33.13" width="16.54" height="30.59"/>
+         <rect id="2045" class="cls-1" x="317.21" y="33.22" width="22.32" height="30.5"/>
+         <rect id="2044" class="cls-1" x="339.48" y="33.22" width="16.21" height="30.5"/>
+         <rect id="2043" class="cls-1" x="355.7" y="39.65" width="21.19" height="24.08"/>
+         <rect id="2041" class="cls-1" x="392.82" y="33.08" width="14.71" height="30.65"/>
+         <rect id="2040" class="cls-1" x="407.78" y="33.08" width="18.49" height="30.65"/>
+         <rect id="2024" class="cls-1" x="424.13" y="0.5" width="18.49" height="23.32"/>
+         <rect id="2037" class="cls-1" x="458.57" y="33.08" width="18.37" height="30.65"/>
+         <polygon id="2058" class="cls-1" points="136.96 56.61 136.96 63.7 131.6 63.7 131.6 63.72 122.87 63.72 122.87 37.88 131.6 37.88 131.6 56.61 136.96 56.61"/>
+         <polygon id="2056" class="cls-1" points="150.21 37.88 150.21 51.92 149.95 51.92 149.95 63.72 140.72 63.72 140.72 63.7 136.3 63.7 136.3 56.79 140.72 56.79 140.72 37.88 150.21 37.88"/>
+      </g>
+      <g id="Livello_3" data-name="Livello 3">
+         <line class="cls-2" x1="122.87" y1="51.92" x2="131.6" y2="51.92"/>
+         <line class="cls-2" x1="140.72" y1="51.92" x2="150.68" y2="51.92"/>
+      </g>
+      <g id="porte">
+
+
+         <text id="2scala01-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text>
+         <text id="2003-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2004-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2005-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2007-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2scala02-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2009-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2010-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2011-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2012-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2012-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2014-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2015-text" class="text-map1" x='10' y='70'>nome</text>
+         <text id="2016-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2017-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2018-text" class=" text-map" x='10' y='70'>nome</text>
+         <text id="2Corridoio-scale-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2020-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2021-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2022-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2023-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2025-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2026-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2027-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2028-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2030-text" class="text-map" x='10' y='70'> nome</text>
+         <text id="2029-text" class="text-map" x='10' y='70'>nome</text>
+   
+         <text id="2scala03-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2scala04-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2002-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2006-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2063-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2060-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2053-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2050-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2048-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2045-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2044-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2043-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2041-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2040-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2024-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2037-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2058-text" class="text-map" x='10' y='70'>nome</text>
+         <text id="2056-text" class="text-map" x='10' y='70'>nome</text>
+      
+
+         <text id="2042-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2046-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2047-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2049-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2051-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2052-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2054-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2055-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2064-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2062-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text id="2061-text"  class="text-map"  x='10' y='70'>nome</text>
+         <text  id="2059-text" class="text-map"  x='10' y='70'>nome</text>
+         <text id="2057-text"  class="text-map"  x='10' y='70'>nome</text>
+
+         
+         <text x='10' y='70' class="text-map" id="2039-text">nome</text>
+         <text x='10' y='70' class="text-map" id="2038-text">nome</text>
+         <text x='10' y='70' class="text-map" id="2036-text">nome</text>
+         <text x='10' y='70' class="text-map" id="2035-text">nome</text>
+         <text x='10' y='70' class="text-map" id="2034a-text">nome</text>
+         <text x='10' y='70' class="text-map" id="2034-text">nome</text>
+         <text x='10' y='70' class="text-map" id="2031-text">nome</text>
+         <text x='10' y='70' class="text-map" id="2065-text">nome</text>
+      </g>
+   </g>
+</svg>

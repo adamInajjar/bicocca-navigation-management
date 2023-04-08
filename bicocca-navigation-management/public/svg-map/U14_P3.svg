@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 578.35 65.36">
+   <defs>
+      <style>.cls-1,.cls-2{fill:#fff;}.cls-1{stroke:#010101;}.cls-1,.cls-3{stroke-miterlimit:10;}.cls-3{fill:#fafafa;stroke:#fedf6e;}</style>
+   </defs>
+   <g id="Livello_2" data-name="Livello 2">
+      <g id="stanze">
+         <rect id="3007" class="cls-1" x="19.53" y="0.5" width="486.27" height="64.36"/>
+         <polygon id="3scala01" class="cls-1" points="19.54 23.05 19.54 29.73 15.89 29.73 15.89 61.71 0.5 61.71 0.5 18.39 15.89 18.39 15.89 23.05 19.54 23.05"/>
+         <polygon id="3002" class="cls-1" points="559.21 46.09 559.21 64.86 531.03 64.86 531.03 30.79 549.22 30.79 549.22 46.09 559.21 46.09"/>
+         <rect id="3003" class="cls-1" x="505.8" y="24.91" width="25.23" height="39.95"/>
+         <rect id="3006" class="cls-1" x="518.94" y="0.5" width="12.33" height="11.51"/>
+         <rect id="3005" class="cls-1" x="518.88" y="12.49" width="12.35" height="12.35"/>
+         <rect id="3004" class="cls-1" x="505.8" y="0.5" width="13.46" height="24.41"/>
+         <rect id="3scala02" class="cls-1" x="531.27" y="0.5" width="27.95" height="30.29"/>
+         <polygon id="3scala03" class="cls-1" points="577.85 8.09 577.85 51.54 562.45 51.54 562.45 46.09 549.24 46.09 549.24 37.78 562.45 37.78 562.45 8.09 577.85 8.09"/>
+      </g>
+      <g id="Livello_3" data-name="Livello 3">
+         <line class="cls-2" x1="19.53" y1="23.4" x2="19.53" y2="28.89"/>
+         <rect class="cls-2" x="18.74" y="23.55" width="1.5" height="5.67"/>
+      </g>
+      <g id="porte">
+         <path class="cls-3" d="M506.31,2.74a46,46,0,0,0-4.87,0c-.05,1.42,2.31,4.63,4.87,4.63"/>
+         <path class="cls-3" d="M506.31,52.13a46,46,0,0,0-4.87,0c-.05,1.42,2.31,4.63,4.87,4.63"/>
+         <path class="cls-3" d="M519.79,23a46.37,46.37,0,0,1-4.88,0c0-1.42,2.31-4.63,4.88-4.63"/>
+         <path class="cls-3" d="M531.78,20.18a46.37,46.37,0,0,1-4.88,0c0-1.42,2.31-4.63,4.88-4.63"/>
+         <path class="cls-3" d="M548.64,39.48a46.37,46.37,0,0,1,4.88,0c.05,1.42-2.31,4.63-4.88,4.63"/>
+         <path class="cls-3" d="M539.14,31.29a14.86,14.86,0,0,0,0-1.89c-.7,0-2.26.9-2.26,1.89,0-2.18-2.78-4.18-4-4.14a40.49,40.49,0,0,0,0,4.14"/>
+         <path class="cls-3" d="M530.52,38.54a14.73,14.73,0,0,1,1.89,0c0,.69-.9,2.25-1.89,2.25,2.18,0,4.18,2.79,4.14,4a40.49,40.49,0,0,1-4.14,0"/>
+         <path class="cls-3" d="M520.4,13a46.19,46.19,0,0,1,0-4.88c1.42,0,4.63,2.32,4.63,4.88"/>
+      </g>
+      <g id="porte">
+         <text id="3scala03-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text> 
+         <text id="3002-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text>
+         <text id="3003-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text>
+         <text id="3006-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text>
+         <text id="3005-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text>
+         <text id="3004-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text>
+         <text id="3scala02-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text>   
+         <text id="3007-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text>
+         <text id="3scala01-text" class="text-map" x='10' y='70' x='10' y='70'>nome</text>
+
+      </g>
+   </g>
+</svg>
